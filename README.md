@@ -29,7 +29,7 @@ To run the application locally, follow these steps:
 - Configure your Firebase project with your Android app by following the setup instructions in Firebase. Don't forget to add your google-services.json to the app directory.
 - Build and run the application on an Android emulator or physical device.
 
-### Usage
+## Usage
 - Register or log in to your account.
 - Start a conversation with a friend or contact.
 - Send text messages, images, and react to messages.
