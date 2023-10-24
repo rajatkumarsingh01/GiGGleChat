@@ -13,7 +13,11 @@ import com.example.gigglechat.databinding.SentItemLayoutBinding
 import com.example.gigglechat.model.MessageModel
 import com.google.firebase.auth.FirebaseAuth
 
+class fun() {}
+
+
 class MessageAdapter(var context: Context,var list: ArrayList<MessageModel>):RecyclerView.Adapter<RecyclerView.ViewHolder>() {
+
 
     var Item_Sent=1
     var Item_Receive=2
